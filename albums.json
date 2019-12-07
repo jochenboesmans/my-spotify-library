@@ -1,0 +1,6330 @@
+[
+  [
+    {
+      "added_at": "2019-11-08T18:34:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frédéric Chopin",
+            "type": "artist"
+          },
+          {
+            "name": "Ivo Pogorelich",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00028943994729"
+        },
+        "name": "Chopin: Scherzos Nos.1-4",
+        "release_date": "1998-01-01"
+      }
+    },
+    {
+      "added_at": "2019-11-03T21:46:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602508347467"
+        },
+        "name": "JESUS IS KING",
+        "release_date": "2019-10-25"
+      }
+    },
+    {
+      "added_at": "2019-08-17T19:47:17Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Florence + The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602508042638"
+        },
+        "name": "Lungs (10th Anniversary Edition)",
+        "release_date": "2009-07-03"
+      }
+    },
+    {
+      "added_at": "2019-06-23T05:49:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frédéric Chopin",
+            "type": "artist"
+          },
+          {
+            "name": "Martha Argerich",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0724355680556"
+        },
+        "name": "Chopin: The Legendary 1965 Recording",
+        "release_date": "1999-03-01"
+      }
+    },
+    {
+      "added_at": "2019-05-17T07:36:39Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tyler, The Creator",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886447710180"
+        },
+        "name": "IGOR",
+        "release_date": "2019-05-17"
+      }
+    },
+    {
+      "added_at": "2019-05-14T19:35:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tyler, The Creator",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904052959"
+        },
+        "name": "Goblin",
+        "release_date": "2011-05-09"
+      }
+    },
+    {
+      "added_at": "2019-04-28T23:31:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Wolfgang Amadeus Mozart",
+            "type": "artist"
+          },
+          {
+            "name": "René Jacobs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0794881735624"
+        },
+        "name": "Mozart: Le nozze di Figaro",
+        "release_date": "2004"
+      }
+    },
+    {
+      "added_at": "2019-04-23T10:46:58Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Beyoncé",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886447680711"
+        },
+        "name": "Lemonade",
+        "release_date": "2016-04-23"
+      }
+    },
+    {
+      "added_at": "2019-04-20T17:54:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pharoahe Monch",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517144040"
+        },
+        "name": "Desire",
+        "release_date": "2007-01-01"
+      }
+    },
+    {
+      "added_at": "2019-04-20T17:54:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pharoahe Monch",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "693461216525"
+        },
+        "name": "W.A.R. (We Are Renegades)",
+        "release_date": "2011-03-22"
+      }
+    },
+    {
+      "added_at": "2019-04-20T17:54:51Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pharoahe Monch",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "881034186881"
+        },
+        "name": "PTSD - Post Traumatic Stress Disorder",
+        "release_date": "2014-04-15"
+      }
+    },
+    {
+      "added_at": "2019-04-14T12:55:48Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Susanne Sundfør",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5060186925806"
+        },
+        "name": "Ten Love Songs",
+        "release_date": "2015-02-09"
+      }
+    },
+    {
+      "added_at": "2019-04-06T16:44:24Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "deadmau5",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0883958015834"
+        },
+        "name": "mau5ville: Level 2",
+        "release_date": "2018-11-16"
+      }
+    },
+    {
+      "added_at": "2019-04-06T16:44:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "deadmau5",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0883958015445"
+        },
+        "name": "mau5ville: Level 1",
+        "release_date": "2018-07-13"
+      }
+    },
+    {
+      "added_at": "2019-03-07T03:20:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Motion City Soundtrack",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977413786"
+        },
+        "name": "My Dinosaur Life",
+        "release_date": "2010"
+      }
+    },
+    {
+      "added_at": "2019-03-07T03:20:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Motion City Soundtrack",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0045778696369"
+        },
+        "name": "Even If It Kills Me",
+        "release_date": "2008-04-29"
+      }
+    },
+    {
+      "added_at": "2019-03-07T03:20:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Motion City Soundtrack",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "045778676569"
+        },
+        "name": "Commit This To Memory",
+        "release_date": "2005-06-07"
+      }
+    },
+    {
+      "added_at": "2019-02-04T06:14:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "deadmau5",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0883958015902"
+        },
+        "name": "mau5ville: Level 3",
+        "release_date": "2019-02-01"
+      }
+    },
+    {
+      "added_at": "2018-12-15T15:19:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Franz Schubert",
+            "type": "artist"
+          },
+          {
+            "name": "Krystian Zimerman",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00028942361225"
+        },
+        "name": "Schubert: Impromptus D899 & D935",
+        "release_date": "1991-01-01"
+      }
+    },
+    {
+      "added_at": "2018-12-03T13:33:47Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The White Stripes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904015022"
+        },
+        "name": "De Stijl",
+        "release_date": "2000-06-20"
+      }
+    },
+    {
+      "added_at": "2018-11-02T15:35:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Prodigy",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0711297880175"
+        },
+        "name": "Invaders Must Die (Special Edition)",
+        "release_date": "2009-11-08"
+      }
+    },
+    {
+      "added_at": "2018-11-02T15:34:44Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Prodigy",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904012120"
+        },
+        "name": "The Fat of the Land",
+        "release_date": "1997-06-30"
+      }
+    },
+    {
+      "added_at": "2018-10-18T10:15:08Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Ian Taylor",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5053760043119"
+        },
+        "name": "RuneScape: Original Soundtrack Classics",
+        "release_date": "2018-09-14"
+      }
+    },
+    {
+      "added_at": "2018-08-12T21:50:47Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Death Grips",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602567764069"
+        },
+        "name": "Year Of The Snitch",
+        "release_date": "2018-06-22"
+      }
+    },
+    {
+      "added_at": "2018-08-12T21:50:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Death Grips",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537705689"
+        },
+        "name": "Government Plates",
+        "release_date": "2014-01-01"
+      }
+    },
+    {
+      "added_at": "2018-08-03T10:16:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Black Box Revelation",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547598844"
+        },
+        "name": "Highway Cruiser",
+        "release_date": "2015-10-16"
+      }
+    },
+    {
+      "added_at": "2018-07-25T17:25:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "21 Savage",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886446775005"
+        },
+        "name": "Issa Album",
+        "release_date": "2017-09-23"
+      }
+    },
+    {
+      "added_at": "2018-06-23T18:59:37Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Teyana Taylor",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602567859017"
+        },
+        "name": "K.T.S.E.",
+        "release_date": "2018-06-23"
+      }
+    },
+    {
+      "added_at": "2018-06-11T23:00:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "KIDS SEE GHOSTS",
+            "type": "artist"
+          },
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          },
+          {
+            "name": "Kid Cudi",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602567803911"
+        },
+        "name": "KIDS SEE GHOSTS",
+        "release_date": "2018-06-08"
+      }
+    },
+    {
+      "added_at": "2018-06-11T13:47:28Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frédéric Chopin",
+            "type": "artist"
+          },
+          {
+            "name": "Krystian Zimerman",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00028942309029"
+        },
+        "name": "Chopin: Ballades; Barcarolle; Fantaisie",
+        "release_date": "1988-01-01"
+      }
+    },
+    {
+      "added_at": "2018-06-05T06:36:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602567700685"
+        },
+        "name": "ye",
+        "release_date": "2018-06-01"
+      }
+    },
+    {
+      "added_at": "2018-05-30T21:38:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pusha T",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547821140"
+        },
+        "name": "DAYTONA",
+        "release_date": "2018-05-25"
+      }
+    },
+    {
+      "added_at": "2018-05-17T23:16:52Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "Various Artists",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00044001730429"
+        },
+        "name": "Doornroosje",
+        "release_date": "2002-01-01"
+      }
+    },
+    {
+      "added_at": "2018-04-14T20:09:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Death Grips",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537531790"
+        },
+        "name": "No Love Deep Web",
+        "release_date": "2012"
+      }
+    },
+    {
+      "added_at": "2018-03-31T04:42:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "BROCKHAMPTON",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888915433140"
+        },
+        "name": "SATURATION II",
+        "release_date": "2017-08-25"
+      }
+    },
+    {
+      "added_at": "2018-03-22T20:22:09Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Taylor Swift",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547066886"
+        },
+        "name": "1989",
+        "release_date": "2014-10-27"
+      }
+    },
+    {
+      "added_at": "2018-03-10T20:05:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Anna von Hausswolff",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "4250506828172"
+        },
+        "name": "Dead Magic",
+        "release_date": "2018-03-02"
+      }
+    },
+    {
+      "added_at": "2017-12-16T18:48:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kat Dahlia",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886444777544"
+        },
+        "name": "My Garden",
+        "release_date": "2015-01-09"
+      }
+    },
+    {
+      "added_at": "2017-12-15T17:53:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "BROCKHAMPTON",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888915487846"
+        },
+        "name": "SATURATION III",
+        "release_date": "2017-12-15"
+      }
+    },
+    {
+      "added_at": "2017-12-13T22:15:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Playboi Carti",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602557292848"
+        },
+        "name": "Playboi Carti",
+        "release_date": "2017-04-14"
+      }
+    },
+    {
+      "added_at": "2017-12-11T19:13:31Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "21 Savage",
+            "type": "artist"
+          },
+          {
+            "name": "Offset",
+            "type": "artist"
+          },
+          {
+            "name": "Metro Boomin",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886446838526"
+        },
+        "name": "Without Warning",
+        "release_date": "2017-10-30"
+      }
+    },
+    {
+      "added_at": "2017-11-26T11:42:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517455023"
+        },
+        "name": "Graduation (UK Version)",
+        "release_date": "2007-01-01"
+      }
+    },
+    {
+      "added_at": "2017-08-24T23:33:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Queens of the Stone Age",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861112556"
+        },
+        "name": "Villains",
+        "release_date": "2017-08-25"
+      }
+    },
+    {
+      "added_at": "2017-08-24T22:54:37Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The War On Drugs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679895899"
+        },
+        "name": "A Deeper Understanding",
+        "release_date": "2017-08-25"
+      }
+    },
+    {
+      "added_at": "2017-08-12T19:37:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Districts",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "767981163833"
+        },
+        "name": "Popular Manipulations",
+        "release_date": "2017-08-11"
+      }
+    },
+    {
+      "added_at": "2017-08-04T12:07:45Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The War On Drugs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679891082"
+        },
+        "name": "Pain",
+        "release_date": "2017-08-03"
+      }
+    },
+    {
+      "added_at": "2017-07-07T06:23:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "HAIM",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602557671575"
+        },
+        "name": "Something To Tell You",
+        "release_date": "2017-07-07"
+      }
+    },
+    {
+      "added_at": "2017-07-06T20:16:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Denzel Curry",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00888072017061"
+        },
+        "name": "Imperial",
+        "release_date": "2016-10-14"
+      }
+    },
+    {
+      "added_at": "2017-06-30T01:01:33Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Arcade Fire",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886446543802"
+        },
+        "name": "Signs of Life",
+        "release_date": "2017-06-30"
+      }
+    },
+    {
+      "added_at": "2017-06-19T15:23:38Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Modest Mouse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "074646387122"
+        },
+        "name": "The Moon & Antarctica",
+        "release_date": "2000-06-13"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2017-06-17T19:24:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Led Zeppelin",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497900831"
+        },
+        "name": "Led Zeppelin II (Remaster)",
+        "release_date": "1969-10-22"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:24:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Led Zeppelin",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497900862"
+        },
+        "name": "Led Zeppelin (Remastered)",
+        "release_date": "1969-01-12"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:24:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Led Zeppelin",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497900817"
+        },
+        "name": "Led Zeppelin III (Remastered)",
+        "release_date": "1970"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:24:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Led Zeppelin",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497898497"
+        },
+        "name": "Led Zeppelin IV (Remaster)",
+        "release_date": "1971-11-08"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:22:27Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Last Shadow Puppets",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887828037186"
+        },
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "release_date": "2016-12-02"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:22:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Last Shadow Puppets",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202020851"
+        },
+        "name": "The Age Of The Understatement",
+        "release_date": "2008-04-19"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:18:38Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602557027334"
+        },
+        "name": "The Life Of Pablo",
+        "release_date": "2016-06-10"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:13:46Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "XYLØ",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886445713374"
+        },
+        "name": "America EP",
+        "release_date": "2016-02-26"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:12:09Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Wolfmother",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547648716"
+        },
+        "name": "Victorious",
+        "release_date": "2016-02-19"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:07:27Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Van Morrison",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497909964"
+        },
+        "name": "Moondance",
+        "release_date": "1970-02"
+      }
+    },
+    {
+      "added_at": "2017-06-17T19:02:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Vaccines",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977874051"
+        },
+        "name": "What Did You Expect from the Vaccines?",
+        "release_date": "2011-03-11"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:55:07Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "The Smiths",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646642847"
+        },
+        "name": "Louder Than Bombs",
+        "release_date": "1987"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:54:50Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "The Smiths",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646642779"
+        },
+        "name": "The World Won't Listen",
+        "release_date": "1987"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:54:35Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Smiths",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646642793"
+        },
+        "name": "The Smiths",
+        "release_date": "1984"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:51:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Run The Jewels",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5021392876191"
+        },
+        "name": "Run The Jewels (Deluxe European Edition)",
+        "release_date": "2014-01-13"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:46:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rage Against The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977724905"
+        },
+        "name": "Evil Empire",
+        "release_date": "1996-04-15"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:46:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rage Against The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "074645295923"
+        },
+        "name": "Rage Against The Machine",
+        "release_date": "1992-11-03"
+      }
+    },
+    {
+      "added_at": "2017-06-17T18:45:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904032449"
+        },
+        "name": "In Rainbows (Disk 2)",
+        "release_date": "2007-12-03"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:51:51Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Lorde",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602557477641"
+        },
+        "name": "Melodrama",
+        "release_date": "2017-06-16"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:51:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "James Blake",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547933287"
+        },
+        "name": "The Colour In Anything",
+        "release_date": "2016-05-05"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:33:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cage The Elephant",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "05099952059858"
+        },
+        "name": "Cage The Elephant",
+        "release_date": "2008-01-01"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:33:04Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cage The Elephant",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886445411881"
+        },
+        "name": "Tell Me I'm Pretty",
+        "release_date": "2015-12-18"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:17:57Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Royal Blood",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646266593"
+        },
+        "name": "Royal Blood",
+        "release_date": "2014-08-22"
+      }
+    },
+    {
+      "added_at": "2017-06-17T16:17:53Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Royal Blood",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "190295812348"
+        },
+        "name": "How Did We Get So Dark?",
+        "release_date": "2017-06-16"
+      }
+    },
+    {
+      "added_at": "2017-06-17T12:11:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Fleet Foxes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075597937329"
+        },
+        "name": "Crack-Up",
+        "release_date": "2017-06-16"
+      }
+    },
+    {
+      "added_at": "2017-06-17T12:11:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Young Thug",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679892409"
+        },
+        "name": "Beautiful Thugger Girls",
+        "release_date": "2017-06-16"
+      }
+    },
+    {
+      "added_at": "2017-06-02T12:04:17Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Queens of the Stone Age",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517425835"
+        },
+        "name": "Rated R",
+        "release_date": "2000-06-06"
+      }
+    },
+    {
+      "added_at": "2017-05-31T09:05:05Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Weezer",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00720642462928"
+        },
+        "name": "Weezer",
+        "release_date": "1994-05-10"
+      }
+    },
+    {
+      "added_at": "2017-05-16T00:06:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Perfume Genius",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861111351"
+        },
+        "name": "No Shape",
+        "release_date": "2017-05-05"
+      }
+    },
+    {
+      "added_at": "2017-05-07T15:18:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Run The Jewels",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886446293301"
+        },
+        "name": "Run the Jewels 3",
+        "release_date": "2016-12-26"
+      }
+    },
+    {
+      "added_at": "2017-05-05T03:05:18Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Rameses B",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "191061486565"
+        },
+        "name": "Ether - EP",
+        "release_date": "2017-04-18"
+      }
+    },
+    {
+      "added_at": "2017-04-28T12:10:04Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The War On Drugs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679896001"
+        },
+        "name": "Thinking Of A Place",
+        "release_date": "2017-04-27"
+      }
+    },
+    {
+      "added_at": "2017-02-08T11:26:26Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "Marilyn Monroe",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "4040741011398"
+        },
+        "name": "Vintage Hollywood Classics, Vol. 12: Marilyn Monroe on Screen and in Studio (Recorded 1953-1960)",
+        "release_date": "2014-06-03"
+      }
+    },
+    {
+      "added_at": "2017-01-23T19:22:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Beastie Boys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00094634524957"
+        },
+        "name": "Solid Gold Hits",
+        "release_date": "2005-01-01"
+      }
+    },
+    {
+      "added_at": "2017-01-14T12:58:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rage Against The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "696998536920"
+        },
+        "name": "Renegades",
+        "release_date": "2000-12-04"
+      }
+    },
+    {
+      "added_at": "2017-01-14T12:58:38Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rage Against The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "074646963029"
+        },
+        "name": "The Battle Of Los Angeles",
+        "release_date": "1999-11-01"
+      }
+    },
+    {
+      "added_at": "2017-01-03T16:21:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Angel Olsen",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605228464"
+        },
+        "name": "MY WOMAN",
+        "release_date": "2016-09-02"
+      }
+    },
+    {
+      "added_at": "2017-01-03T16:16:00Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Childish Gambino",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00044003178366"
+        },
+        "name": "Kauai",
+        "release_date": "2014-10-03"
+      }
+    },
+    {
+      "added_at": "2017-01-03T16:15:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Childish Gambino",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527881546"
+        },
+        "name": "Camp",
+        "release_date": "2011-01-01"
+      }
+    },
+    {
+      "added_at": "2017-01-03T16:15:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Childish Gambino",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537667970"
+        },
+        "name": "because the internet",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2017-01-03T16:11:24Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Jenny Hval",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "616892388845"
+        },
+        "name": "Blood Bitch",
+        "release_date": "2016-09-30"
+      }
+    },
+    {
+      "added_at": "2017-01-03T12:19:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Young Thug",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679911384"
+        },
+        "name": "Slime Season 3",
+        "release_date": "2016-03-25"
+      }
+    },
+    {
+      "added_at": "2017-01-01T21:08:46Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "AKA George",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0885014667377"
+        },
+        "name": "First Friday",
+        "release_date": "2017-01-01"
+      }
+    },
+    {
+      "added_at": "2016-12-24T13:17:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Car Seat Headrest",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861109136"
+        },
+        "name": "Teens of Denial",
+        "release_date": "2016-05-20"
+      }
+    },
+    {
+      "added_at": "2016-12-16T04:43:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Injury Reserve",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859718878681"
+        },
+        "name": "Floss",
+        "release_date": "2016-12-15"
+      }
+    },
+    {
+      "added_at": "2016-12-01T23:07:04Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Childish Gambino",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00044003187641"
+        },
+        "name": "\"Awaken, My Love!\"",
+        "release_date": "2016-12-02"
+      }
+    },
+    {
+      "added_at": "2016-11-30T03:29:38Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Young Thug",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679905420"
+        },
+        "name": "JEFFERY",
+        "release_date": "2016-08-26"
+      }
+    },
+    {
+      "added_at": "2016-11-18T01:53:37Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Justice",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "190295900601"
+        },
+        "name": "Woman",
+        "release_date": "2016-11-18"
+      }
+    },
+    {
+      "added_at": "2016-11-13T11:17:53Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Young Thug",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679924889"
+        },
+        "name": "Barter 6",
+        "release_date": "2015-04-16"
+      }
+    },
+    {
+      "added_at": "2016-10-26T21:16:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "OutKast",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "730082607223"
+        },
+        "name": "Stankonia",
+        "release_date": "2000-10-31"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2016-09-30T12:54:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bon Iver",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605230061"
+        },
+        "name": "22, A Million",
+        "release_date": "2016-09-30"
+      }
+    },
+    {
+      "added_at": "2016-09-27T20:31:56Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Danny Brown",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0801061027636"
+        },
+        "name": "Atrocity Exhibition",
+        "release_date": "2016-09-27"
+      }
+    },
+    {
+      "added_at": "2016-09-19T11:19:39Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Purity Ring",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637350166"
+        },
+        "name": "another eternity",
+        "release_date": "2015-02-27"
+      }
+    },
+    {
+      "added_at": "2016-09-19T11:19:36Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Purity Ring",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637321852"
+        },
+        "name": "Shrines",
+        "release_date": "2012-07-23"
+      }
+    },
+    {
+      "added_at": "2016-09-16T13:25:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cymbals Eat Guitars",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "858458005418"
+        },
+        "name": "Pretty Years",
+        "release_date": "2016-09-16"
+      }
+    },
+    {
+      "added_at": "2016-09-10T14:24:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frank Ocean",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "862160000302"
+        },
+        "name": "Blonde",
+        "release_date": "2016-08-20"
+      }
+    },
+    {
+      "added_at": "2016-09-09T12:50:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Miguel",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886445204223"
+        },
+        "name": "Wildheart (Deluxe Version)",
+        "release_date": "2015-06-26"
+      }
+    },
+    {
+      "added_at": "2016-09-08T16:53:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Chance the Rapper",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859717379530"
+        },
+        "name": "Coloring Book",
+        "release_date": "2016-05-27"
+      }
+    },
+    {
+      "added_at": "2016-08-12T14:48:42Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Florence + The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602557130591"
+        },
+        "name": "Songs From Final Fantasy XV",
+        "release_date": "2016-08-12"
+      }
+    },
+    {
+      "added_at": "2016-08-03T13:39:50Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Girl Talk",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859700937358"
+        },
+        "name": "Feed the Animals",
+        "release_date": "2008-09-23"
+      }
+    },
+    {
+      "added_at": "2016-07-25T17:31:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Justice",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "085365765009"
+        },
+        "name": "Cross",
+        "release_date": "2007-06-18"
+      }
+    },
+    {
+      "added_at": "2016-07-02T16:48:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Fleet Foxes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939790270"
+        },
+        "name": "Fleet Foxes (Deluxe Edition)",
+        "release_date": "2008-06-03"
+      }
+    },
+    {
+      "added_at": "2016-07-01T19:53:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Blood Orange",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887828036967"
+        },
+        "name": "Freetown Sound",
+        "release_date": "2016-06-28"
+      }
+    },
+    {
+      "added_at": "2016-07-01T19:14:27Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bat For Lashes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "190295985318"
+        },
+        "name": "The Bride",
+        "release_date": "2016-07-01"
+      }
+    },
+    {
+      "added_at": "2016-06-17T16:49:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904079062"
+        },
+        "name": "A Moon Shaped Pool",
+        "release_date": "2016-05-08"
+      }
+    },
+    {
+      "added_at": "2016-06-10T13:40:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904032463"
+        },
+        "name": "In Rainbows",
+        "release_date": "2007-12-28"
+      }
+    },
+    {
+      "added_at": "2016-06-06T11:03:34Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Wolfmother",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517169784"
+        },
+        "name": "Wolfmother (EE Version)",
+        "release_date": "2006-01-01"
+      }
+    },
+    {
+      "added_at": "2016-06-04T15:27:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Trivium",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "016861750206"
+        },
+        "name": "Silence In The Snow",
+        "release_date": "2015-09-28"
+      }
+    },
+    {
+      "added_at": "2016-06-04T13:46:05Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5060454942665"
+        },
+        "name": "Future Present Past",
+        "release_date": "2016-06-03"
+      }
+    },
+    {
+      "added_at": "2016-05-25T11:11:04Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Anna von Hausswolff",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "4250506813420"
+        },
+        "name": "The Miraculous",
+        "release_date": "2015-11-13"
+      }
+    },
+    {
+      "added_at": "2016-05-25T06:24:05Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Weezer",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00720642500729"
+        },
+        "name": "Pinkerton",
+        "release_date": "1996-09-24"
+      }
+    },
+    {
+      "added_at": "2016-05-22T10:21:44Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Die Antwoord",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5060186923178"
+        },
+        "name": "Donker Mag",
+        "release_date": "2014-06-03"
+      }
+    },
+    {
+      "added_at": "2016-05-22T10:21:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Die Antwoord",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939427077"
+        },
+        "name": "TEN$ION",
+        "release_date": "2012-01-30"
+      }
+    },
+    {
+      "added_at": "2016-05-06T14:34:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "ANOHNI",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "883870082365"
+        },
+        "name": "HOPELESSNESS",
+        "release_date": "2016-05-06"
+      }
+    },
+    {
+      "added_at": "2016-05-06T14:33:47Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Death Grips",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547914538"
+        },
+        "name": "Bottomless Pit",
+        "release_date": "2016-05-06"
+      }
+    },
+    {
+      "added_at": "2016-04-01T20:12:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Weezer",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679912787"
+        },
+        "name": "Weezer (White Album)",
+        "release_date": "2016-04-01"
+      }
+    },
+    {
+      "added_at": "2016-04-01T16:43:02Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Iggy Pop",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547778208"
+        },
+        "name": "Post Pop Depression",
+        "release_date": "2016-03-18"
+      }
+    },
+    {
+      "added_at": "2016-04-01T16:42:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Range",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887828035861"
+        },
+        "name": "Potential",
+        "release_date": "2016-03-25"
+      }
+    },
+    {
+      "added_at": "2016-04-01T16:12:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frankie Cosmos",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859575005183"
+        },
+        "name": "Next Thing",
+        "release_date": "2016-04-01"
+      }
+    },
+    {
+      "added_at": "2016-04-01T16:07:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "dvsn",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "093624920229"
+        },
+        "name": "SEPT 5TH",
+        "release_date": "2016-03-27"
+      }
+    },
+    {
+      "added_at": "2016-03-24T18:11:05Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Allman Brothers Band",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537288014"
+        },
+        "name": "Brothers And Sisters",
+        "release_date": "1973-09"
+      }
+    },
+    {
+      "added_at": "2016-03-20T22:09:46Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Mac Miller",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "093624924401"
+        },
+        "name": "GO:OD AM",
+        "release_date": "2015-09-18"
+      }
+    },
+    {
+      "added_at": "2016-03-18T20:51:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Mastodon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "781676662227"
+        },
+        "name": "Leviathan",
+        "release_date": "2004-08-31"
+      }
+    },
+    {
+      "added_at": "2016-03-15T05:26:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Freddie Gibbs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888915148952"
+        },
+        "name": "Shadow of a Doubt",
+        "release_date": "2015-11-20"
+      }
+    },
+    {
+      "added_at": "2016-03-12T23:53:15Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Bon Iver",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605213460"
+        },
+        "name": "Blood Bank",
+        "release_date": "2009-01-20"
+      }
+    },
+    {
+      "added_at": "2016-03-11T20:24:19Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Interpol",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939431272"
+        },
+        "name": "Turn On The Bright Lights",
+        "release_date": "2002"
+      }
+    },
+    {
+      "added_at": "2016-03-08T17:32:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The White Stripes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904015121"
+        },
+        "name": "White Blood Cells",
+        "release_date": "2001-07-03"
+      }
+    },
+    {
+      "added_at": "2016-03-08T16:59:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Grizzly Bear",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0801061018238"
+        },
+        "name": "Veckatimest",
+        "release_date": "2009-05-24"
+      }
+    },
+    {
+      "added_at": "2016-03-07T21:18:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Joni Mitchell",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075992719964"
+        },
+        "name": "Blue",
+        "release_date": "1971-06-22"
+      }
+    },
+    {
+      "added_at": "2016-03-07T18:11:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Neutral Milk Hotel",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202002154"
+        },
+        "name": "In The Aeroplane Over The Sea",
+        "release_date": "1998"
+      }
+    },
+    {
+      "added_at": "2016-03-07T01:30:38Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The xx",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "609008295069"
+        },
+        "name": "xx",
+        "release_date": "2009-08-16"
+      }
+    },
+    {
+      "added_at": "2016-03-07T00:04:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Animal Collective",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202021650"
+        },
+        "name": "Merriweather Post Pavilion",
+        "release_date": "2009-01-10"
+      }
+    },
+    {
+      "added_at": "2016-03-05T14:39:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Everything Everything",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886445073638"
+        },
+        "name": "Get To Heaven (Deluxe)",
+        "release_date": "2015-06-19"
+      }
+    },
+    {
+      "added_at": "2016-03-05T14:23:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Joy Division",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646562831"
+        },
+        "name": "Unknown Pleasures",
+        "release_date": "1979-06-01"
+      }
+    },
+    {
+      "added_at": "2016-03-03T16:41:06Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Anderson .Paak",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "885150341414"
+        },
+        "name": "Malibu",
+        "release_date": "2016-01-15"
+      }
+    },
+    {
+      "added_at": "2016-03-03T14:57:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Run The Jewels",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886444890540"
+        },
+        "name": "Run the Jewels 2",
+        "release_date": "2014-10-24"
+      }
+    },
+    {
+      "added_at": "2016-03-03T10:03:47Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frankie Cosmos",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "811774024693"
+        },
+        "name": "Zentropy",
+        "release_date": "2014-03-04"
+      }
+    },
+    {
+      "added_at": "2016-03-01T23:52:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Elliott Smith",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547529404"
+        },
+        "name": "Either/Or",
+        "release_date": "1997-02-25"
+      }
+    },
+    {
+      "added_at": "2016-02-24T20:00:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Derek & The Dominos",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00600753314289"
+        },
+        "name": "Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered)",
+        "release_date": "1970-11-01"
+      }
+    },
+    {
+      "added_at": "2016-02-22T23:28:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Marvin Gaye",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00044006402222"
+        },
+        "name": "What's Going On (Remastered w/Bonus Tracks)",
+        "release_date": "1971-05-21"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2016-02-03T16:35:56Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "JAY-Z",
+            "type": "artist"
+          },
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527809076"
+        },
+        "name": "Watch The Throne",
+        "release_date": "2011-08-08"
+      }
+    },
+    {
+      "added_at": "2016-02-03T16:35:44Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Futuristic",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859714520928"
+        },
+        "name": "The Rise",
+        "release_date": "2015-05-12"
+      }
+    },
+    {
+      "added_at": "2016-02-03T16:35:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Futuristic",
+            "type": "artist"
+          },
+          {
+            "name": "Devvon Terrell",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859716103358"
+        },
+        "name": "Coast 2 Coast",
+        "release_date": "2015-12-25"
+      }
+    },
+    {
+      "added_at": "2016-02-01T15:24:12Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "The Smiths",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646642854"
+        },
+        "name": "Hatful of Hollow",
+        "release_date": "1984"
+      }
+    },
+    {
+      "added_at": "2016-01-30T22:26:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pyotr Ilyich Tchaikovsky",
+            "type": "artist"
+          },
+          {
+            "name": "Sir Simon Rattle",
+            "type": "artist"
+          },
+          {
+            "name": "Berliner Philharmoniker",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099964638553"
+        },
+        "name": "Tchaikovsky: The Nutcracker (Standard Version)",
+        "release_date": "2010-10-11"
+      }
+    },
+    {
+      "added_at": "2016-01-27T18:09:24Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frank Ocean",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537103713"
+        },
+        "name": "channel ORANGE (Explicit Version)",
+        "release_date": "2012-01-01"
+      }
+    },
+    {
+      "added_at": "2016-01-23T23:07:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "DILLY DALLY",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5051083096652"
+        },
+        "name": "Sore",
+        "release_date": "2015-10-09"
+      }
+    },
+    {
+      "added_at": "2016-01-07T21:48:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "James Blake",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537324453"
+        },
+        "name": "Overgrown",
+        "release_date": "2013-04-08"
+      }
+    },
+    {
+      "added_at": "2015-12-23T23:03:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Beatles",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547673473"
+        },
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "release_date": "1967-06-01"
+      }
+    },
+    {
+      "added_at": "2015-12-23T23:03:09Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Beatles",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547670175"
+        },
+        "name": "The Beatles (Remastered)",
+        "release_date": "1968-11-22"
+      }
+    },
+    {
+      "added_at": "2015-12-23T23:02:53Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Beatles",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547670342"
+        },
+        "name": "Abbey Road (Remastered)",
+        "release_date": "1969-09-26"
+      }
+    },
+    {
+      "added_at": "2015-12-23T22:34:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Grimes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637353563"
+        },
+        "name": "Art Angels",
+        "release_date": "2015-11-06"
+      }
+    },
+    {
+      "added_at": "2015-12-23T22:34:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Jamie xx",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "889030012265"
+        },
+        "name": "In Colour",
+        "release_date": "2015-06-01"
+      }
+    },
+    {
+      "added_at": "2015-12-23T22:34:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kendrick Lamar",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547289049"
+        },
+        "name": "To Pimp A Butterfly",
+        "release_date": "2015-03-16"
+      }
+    },
+    {
+      "added_at": "2015-12-23T19:48:51Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bloc Party",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939423673"
+        },
+        "name": "Four",
+        "release_date": "2012-08-20"
+      }
+    },
+    {
+      "added_at": "2015-12-22T23:45:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tame Impala",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527375380"
+        },
+        "name": "InnerSpeaker",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2015-12-22T22:00:52Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tobias Jesso Jr.",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861609957"
+        },
+        "name": "Goon",
+        "release_date": "2015-03-16"
+      }
+    },
+    {
+      "added_at": "2015-12-21T00:48:55Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Sufjan Stevens",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605609966"
+        },
+        "name": "Carrie & Lowell",
+        "release_date": "2015-03-31"
+      }
+    },
+    {
+      "added_at": "2015-12-21T00:41:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Drake",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537566679"
+        },
+        "name": "Nothing Was The Same",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2015-12-21T00:41:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Drake",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547261915"
+        },
+        "name": "If You're Reading This It's Too Late",
+        "release_date": "2015-02-12"
+      }
+    },
+    {
+      "added_at": "2015-12-21T00:40:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Lorde",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537654604"
+        },
+        "name": "Pure Heroine (Extended)",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2015-12-21T00:40:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527474465"
+        },
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2015-11-14T00:05:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Titus Andronicus",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5050954213181"
+        },
+        "name": "The Monitor",
+        "release_date": "2010-03-09"
+      }
+    },
+    {
+      "added_at": "2015-11-10T04:38:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Oh Wonder",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547407924"
+        },
+        "name": "Oh Wonder",
+        "release_date": "2015-09-04"
+      }
+    },
+    {
+      "added_at": "2015-09-02T13:50:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Samson & Gert",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939730177"
+        },
+        "name": "Samson & Gert 1",
+        "release_date": "1991"
+      }
+    },
+    {
+      "added_at": "2015-08-21T17:44:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Districts",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "767981143323"
+        },
+        "name": "Telephone",
+        "release_date": "2013-12-05"
+      }
+    },
+    {
+      "added_at": "2015-08-19T09:15:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Daft Punk",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099951165857"
+        },
+        "name": "Alive 2007",
+        "release_date": "2007-11-16"
+      }
+    },
+    {
+      "added_at": "2015-07-18T22:35:17Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tame Impala",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602547306807"
+        },
+        "name": "Currents",
+        "release_date": "2015-07-17"
+      }
+    },
+    {
+      "added_at": "2015-07-05T12:29:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099969708954"
+        },
+        "name": "Hail To The Thief (Collector's Edition)",
+        "release_date": "2003-06-09"
+      }
+    },
+    {
+      "added_at": "2015-07-05T12:29:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099969710353"
+        },
+        "name": "Amnesiac (Collector's Edition)",
+        "release_date": "2001-06-05"
+      }
+    },
+    {
+      "added_at": "2015-07-05T11:24:06Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0827565057719"
+        },
+        "name": "The King of Limbs",
+        "release_date": "2011-02-18"
+      }
+    },
+    {
+      "added_at": "2015-07-03T23:33:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Earl Sweatshirt",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886445144604"
+        },
+        "name": "I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt",
+        "release_date": "2015-03-23"
+      }
+    },
+    {
+      "added_at": "2015-06-05T15:10:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cloud Nothings",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5055036253185"
+        },
+        "name": "Attack On Memory",
+        "release_date": "2012-02-06"
+      }
+    },
+    {
+      "added_at": "2015-06-05T15:10:39Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cloud Nothings",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5055036254281"
+        },
+        "name": "Spotify Sessions",
+        "release_date": "2014-08-18"
+      }
+    },
+    {
+      "added_at": "2015-05-27T21:33:09Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Future Islands",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637340266"
+        },
+        "name": "Singles",
+        "release_date": "2014-03-24"
+      }
+    },
+    {
+      "added_at": "2015-05-27T20:27:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Coldplay",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0067003016254"
+        },
+        "name": "Parachutes",
+        "release_date": "2000-07-10"
+      }
+    },
+    {
+      "added_at": "2015-05-27T20:25:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Shins",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "098787055061"
+        },
+        "name": "Oh, Inverted World",
+        "release_date": "2001-06-19"
+      }
+    },
+    {
+      "added_at": "2015-05-27T20:23:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Futuristic",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "617407823998"
+        },
+        "name": "Traveling Local",
+        "release_date": "2014-06-09"
+      }
+    },
+    {
+      "added_at": "2015-05-27T14:06:00Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "My Bloody Valentine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977591101"
+        },
+        "name": "Loveless",
+        "release_date": "1991-11-04"
+      }
+    },
+    {
+      "added_at": "2015-05-19T15:44:23Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Muse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646864836"
+        },
+        "name": "The Resistance",
+        "release_date": "2009-09-10"
+      }
+    },
+    {
+      "added_at": "2015-04-12T12:31:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Districts",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5051083086363"
+        },
+        "name": "A Flourish and A Spoil",
+        "release_date": "2015-02-09"
+      }
+    },
+    {
+      "added_at": "2015-03-23T08:47:08Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Courtney Barnett",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5060186926773"
+        },
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "release_date": "2015-03-23"
+      }
+    },
+    {
+      "added_at": "2015-03-17T19:47:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The War On Drugs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605031064"
+        },
+        "name": "Lost In The Dream",
+        "release_date": "2014-03-18"
+      }
+    },
+    {
+      "added_at": "2015-02-21T21:30:06Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Smiths",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646642809"
+        },
+        "name": "The Queen Is Dead",
+        "release_date": "1986"
+      }
+    },
+    {
+      "added_at": "2015-01-11T19:57:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bon Iver",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637311761"
+        },
+        "name": "Bon Iver",
+        "release_date": "2011-05-21"
+      }
+    },
+    {
+      "added_at": "2014-12-08T18:06:27Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Chipzel",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887516158285"
+        },
+        "name": "Super Hexagon",
+        "release_date": "2012-09-06"
+      }
+    },
+    {
+      "added_at": "2014-11-24T20:03:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Hozier",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537976744"
+        },
+        "name": "Hozier (Deluxe)",
+        "release_date": "2014-05-20"
+      }
+    },
+    {
+      "added_at": "2014-11-03T19:27:19Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cymbals Eat Guitars",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888831218883"
+        },
+        "name": "Lose",
+        "release_date": "2014-08-25"
+      }
+    },
+    {
+      "added_at": "2014-09-08T17:17:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "London Grammar",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537596782"
+        },
+        "name": "If You Wait (Deluxe Version)",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-08-19T21:38:44Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The New Pornographers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861919162"
+        },
+        "name": "War On The East Coast",
+        "release_date": "2014-07-16"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2014-07-23T21:24:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kanye West",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537439263"
+        },
+        "name": "Yeezus",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-07-17T13:12:50Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Cure",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00600753245682"
+        },
+        "name": "Disintegration (Remastered)",
+        "release_date": "1989-05-02"
+      }
+    },
+    {
+      "added_at": "2014-07-15T10:45:56Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Eels",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00600445000124"
+        },
+        "name": "Beautiful Freak",
+        "release_date": "1996-01-01"
+      }
+    },
+    {
+      "added_at": "2014-07-06T14:31:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Van Morrison",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497995127"
+        },
+        "name": "Astral Weeks",
+        "release_date": "1968-11-01"
+      }
+    },
+    {
+      "added_at": "2014-07-02T18:32:58Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Spoon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "045778737765"
+        },
+        "name": "They Want My Soul",
+        "release_date": "2014-08-01"
+      }
+    },
+    {
+      "added_at": "2014-06-20T20:58:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Lonely Island",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517969742"
+        },
+        "name": "Incredibad",
+        "release_date": "2009"
+      }
+    },
+    {
+      "added_at": "2014-06-12T06:07:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Muse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646912650"
+        },
+        "name": "Showbiz",
+        "release_date": "1999"
+      }
+    },
+    {
+      "added_at": "2014-06-11T11:49:35Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The New Pornographers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861918462"
+        },
+        "name": "Brill Bruisers",
+        "release_date": "2014-06-10"
+      }
+    },
+    {
+      "added_at": "2014-05-25T16:12:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Sharon Van Etten",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "656605225562"
+        },
+        "name": "Are We There",
+        "release_date": "2014-05-23"
+      }
+    },
+    {
+      "added_at": "2014-05-13T18:11:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Lykke Li",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646306053"
+        },
+        "name": "I Never Learn",
+        "release_date": "2014-04-25"
+      }
+    },
+    {
+      "added_at": "2014-04-21T20:04:30Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "CHVRCHES",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886444060691"
+        },
+        "name": "The Mother We Share",
+        "release_date": "2013-06-18"
+      }
+    },
+    {
+      "added_at": "2014-04-13T16:26:47Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Sam Smith",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5053760005469"
+        },
+        "name": "Nirvana EP",
+        "release_date": "2013-10-04"
+      }
+    },
+    {
+      "added_at": "2014-04-13T09:24:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Cloud Nothings",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5055036254205"
+        },
+        "name": "Here and Nowhere Else",
+        "release_date": "2014-03-31"
+      }
+    },
+    {
+      "added_at": "2014-04-04T20:39:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828766563528"
+        },
+        "name": "Aha Shake Heartbreak",
+        "release_date": "2004-11-09"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:44:24Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Antlers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0602527913803"
+        },
+        "name": "Burst Apart (Deluxe Version)",
+        "release_date": "2011-11-28"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:44:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Blood Orange",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887828032266"
+        },
+        "name": "Cupid Deluxe",
+        "release_date": "2013-11-18"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:43:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Blitzen Trapper",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "098787075564"
+        },
+        "name": "Furr",
+        "release_date": "2008-09-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:43:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Baroness",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "781676719020"
+        },
+        "name": "Yellow & Green",
+        "release_date": "2012-07-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:43:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Nirvana",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527854090"
+        },
+        "name": "Nevermind",
+        "release_date": "1991-09-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:43:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Fratellis",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517127074"
+        },
+        "name": "Costello Music",
+        "release_date": "2006-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:42:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bombay Bicycle Club",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537618132"
+        },
+        "name": "So Long, See You Tomorrow",
+        "release_date": "2014-02-04"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:42:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Alison Krauss & Union Station",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00011661049529"
+        },
+        "name": "New Favorite",
+        "release_date": "2001"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:42:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Deafheaven",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888002414861"
+        },
+        "name": "Sunbather",
+        "release_date": "2013-05-28"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:42:00Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Childish Gambino",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537640300"
+        },
+        "name": "3005",
+        "release_date": "2013-11-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:41:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kurt Vile",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "744861099857"
+        },
+        "name": "Wakin On A Pretty Daze",
+        "release_date": "2013-04-08"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:41:42Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888880468963"
+        },
+        "name": "Cheer Up, Boys (Your Make Up Is Running)",
+        "release_date": "2008-04-07"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:41:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Billy Talent",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679355966"
+        },
+        "name": "Billy Talent II",
+        "release_date": "2006-06-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:40:39Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "ElectroChronic",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859709516363"
+        },
+        "name": "We're so Fly",
+        "release_date": "2013-01-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:40:34Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Eminem",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00606949076122"
+        },
+        "name": "The Marshall Mathers LP",
+        "release_date": "2000-05-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:39:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Beach Boys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00724352626656"
+        },
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "release_date": "1966-06-16"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:39:20Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Gioachino Rossini",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859704345722"
+        },
+        "name": "Figaro Figaro Figaro! The Barber of Seville: \"Largo Al Factotum\"",
+        "release_date": "2010-08-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:39:09Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "Queen",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527724171"
+        },
+        "name": "The Platinum Collection (2011 Remaster)",
+        "release_date": "2011-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:38:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bombay Bicycle Club",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527442600"
+        },
+        "name": "Flaws",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:38:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bombay Bicycle Club",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527774497"
+        },
+        "name": "A Different Kind Of Fix",
+        "release_date": "2011-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:38:30Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tom Waits",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "603497979738"
+        },
+        "name": "Closing Time",
+        "release_date": "1973-10-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:38:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Trivium",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "016861760199"
+        },
+        "name": "Vengeance Falls (Special Edition)",
+        "release_date": "2013-10-08"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:38:05Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Trivium",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "016861775698"
+        },
+        "name": "In Waves (Special Edition)",
+        "release_date": "2011-08-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:37:46Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arcade Fire",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537569854"
+        },
+        "name": "Reflektor",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:37:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Oasis",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884463094574"
+        },
+        "name": "Be Here Now",
+        "release_date": "1997-08-21"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:37:31Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Oasis",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884463094475"
+        },
+        "name": "Don't Believe The Truth",
+        "release_date": "2005"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:37:08Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Oasis",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "7332334001204"
+        },
+        "name": "Definitely Maybe",
+        "release_date": "1994-08-29"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:36:52Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Killers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537556205"
+        },
+        "name": "Shot At The Night",
+        "release_date": "2013-09-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:36:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Miles Kane",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443917552"
+        },
+        "name": "Don't Forget Who You Are (Deluxe)",
+        "release_date": "2013-05-31"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:36:23Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "White Lies",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537422548"
+        },
+        "name": "BIG TV",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:36:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Van Morrison",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075992732666"
+        },
+        "name": "Moondance",
+        "release_date": "1970-01-27"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:35:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arctic Monkeys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202025856"
+        },
+        "name": "Suck It and See",
+        "release_date": "2011-07-04"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:35:30Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arctic Monkeys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "887828031795"
+        },
+        "name": "AM",
+        "release_date": "2013-09-09"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:35:26Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Edward Sharpe & The Magnetic Zeros",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537490301"
+        },
+        "name": "Better Days",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:35:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "HAIM",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537533633"
+        },
+        "name": "Days Are Gone (Deluxe Edition)",
+        "release_date": "2013-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:47Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828766726527"
+        },
+        "name": "Four Kicks",
+        "release_date": "2005"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2014-04-03T21:34:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977724806"
+        },
+        "name": "Youth And Young Manhood",
+        "release_date": "2003-08-19"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:24Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888880652379"
+        },
+        "name": "Only By The Night",
+        "release_date": "2008-09-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977779486"
+        },
+        "name": "Come Around Sundown (Expanded Edition)",
+        "release_date": "2010-10-19"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:19Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886444064361"
+        },
+        "name": "Mechanical Bull (Expanded Edition)",
+        "release_date": "2013-09-24"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:10Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886970736022"
+        },
+        "name": "On Call",
+        "release_date": "2007-03-15"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:34:04Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886971141122"
+        },
+        "name": "Fans",
+        "release_date": "2007-07-06"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:33:50Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Raconteurs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904019662"
+        },
+        "name": "Broken Boy Soldiers",
+        "release_date": "2006-05-15"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:33:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Raconteurs",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904035969"
+        },
+        "name": "Consolers Of The Lonely",
+        "release_date": "2008-03-25"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:33:04Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Julian Casablancas",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977038781"
+        },
+        "name": "Phrazes For The Young",
+        "release_date": "2009-10-30"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:50Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The National",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "609008305867"
+        },
+        "name": "Trouble Will Find Me",
+        "release_date": "2013-05-27"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:35Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bloc Party",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "05055036271202"
+        },
+        "name": "A Weekend In The City",
+        "release_date": "2007-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828767019321"
+        },
+        "name": "In Your Honour",
+        "release_date": "2005-06-14"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bombay Bicycle Club",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527101286"
+        },
+        "name": "I Had The Blues But I Shook Them Loose",
+        "release_date": "2009-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pink Floyd",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099908217059"
+        },
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "release_date": "1973-03-16"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pink Floyd",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099908217158"
+        },
+        "name": "The Wall [2011 - Remaster] (2011 Remastered Version)",
+        "release_date": "1979-11-30"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:32:06Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pink Floyd",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099908217455"
+        },
+        "name": "Wish You Were Here [2011 - Remaster] (2011 Remastered Version)",
+        "release_date": "1975-09-12"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Vampire Weekend",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904955656"
+        },
+        "name": "Modern Vampires of the City",
+        "release_date": "2013-05-27"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arcade Fire",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517233881"
+        },
+        "name": "Neon Bible",
+        "release_date": "2007"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:34Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Passion Pit",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443487338"
+        },
+        "name": "Gossamer",
+        "release_date": "2012-07-20"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0724382962656"
+        },
+        "name": "The Bends",
+        "release_date": "1994-11-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Green Day",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "093624877769"
+        },
+        "name": "American Idiot",
+        "release_date": "2004-09-21"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:31:04Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Green Day",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "093624980209"
+        },
+        "name": "21st Century Breakdown",
+        "release_date": "2009-05-15"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:30:26Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Daft Punk",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443927087"
+        },
+        "name": "Random Access Memories",
+        "release_date": "2013-05-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:30:21Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Oasis",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5051961007107"
+        },
+        "name": "(What's the Story) Morning Glory?",
+        "release_date": "1995-10-02"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:30:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Muse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646911486"
+        },
+        "name": "Black Holes and Revelations",
+        "release_date": "2006-06-19"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:30:08Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Muse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646911820"
+        },
+        "name": "Absolution",
+        "release_date": "2004-03-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:29:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Muse",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "825646645879"
+        },
+        "name": "Origin of Symmetry",
+        "release_date": "2001"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:29:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Metallica",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "093624986553"
+        },
+        "name": "Metallica",
+        "release_date": "1991-08-12"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:29:36Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099969362354"
+        },
+        "name": "OK Computer [Collector's Edition]",
+        "release_date": "1997-06-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:29:27Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Queens of the Stone Age",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00606949343521"
+        },
+        "name": "Songs For The Deaf",
+        "release_date": "2002-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:29:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The White Stripes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904016227"
+        },
+        "name": "Elephant",
+        "release_date": "2003-04-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:28:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pink Floyd",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "074646706527"
+        },
+        "name": "Pulse",
+        "release_date": "1995-05-29"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:26:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Tame Impala",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537065202"
+        },
+        "name": "Lonerism",
+        "release_date": "2012-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:26:37Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443901162"
+        },
+        "name": "Fast Animals",
+        "release_date": "2013-03-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:25:48Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Kooks",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00094635013153"
+        },
+        "name": "Inside In / Inside Out",
+        "release_date": "2006-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:24:40Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "blink-182",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859709354590"
+        },
+        "name": "Dogs Eating Dogs",
+        "release_date": "2012-12-18"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:24:25Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Papa Roach",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517934320"
+        },
+        "name": "Hollywood Whore",
+        "release_date": "2008-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:23:32Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arctic Monkeys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202016250"
+        },
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "release_date": "2006"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:23:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Florence + The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537126378"
+        },
+        "name": "Ceremonials",
+        "release_date": "2011"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:23:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Florence + The Machine",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527576060"
+        },
+        "name": "Between Two Lungs",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:22:56Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Jack White",
+            "type": "artist"
+          },
+          {
+            "name": "Alicia Keys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888880715807"
+        },
+        "name": "Another Way to Die",
+        "release_date": "2008-09-12"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:22:44Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Phoenix",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0094635571653"
+        },
+        "name": "It's Never Been Like that",
+        "release_date": "2006-05-12"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:22:33Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Hurts",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443735866"
+        },
+        "name": "Exile (Deluxe)",
+        "release_date": "2013-03-08"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:22:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Black Box Revelation",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939021381"
+        },
+        "name": "Silver Threats",
+        "release_date": "2010-01-31"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:22:10Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Black Box Revelation",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5413356606478"
+        },
+        "name": "Set Your Head On Fire",
+        "release_date": "2009-03-29"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:21:57Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Eminem",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602498890844"
+        },
+        "name": "Curtain Call (Deluxe)",
+        "release_date": "2005-12-06"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:21:51Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "888880281975"
+        },
+        "name": "Echoes, Silence, Patience & Grace",
+        "release_date": "2007-09-25"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:21:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arcade Fire",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527935164"
+        },
+        "name": "The Suburbs (Deluxe Edition)",
+        "release_date": "2010"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:21:02Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The National",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "859705859709"
+        },
+        "name": "Exile Vilify (From the Game Portal 2) - Single",
+        "release_date": "2011-04-19"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:20:22Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Alex Turner",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202139850"
+        },
+        "name": "Submarine (original songs)",
+        "release_date": "2011-03-14"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2014-04-03T21:19:55Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "SX",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537199891"
+        },
+        "name": "Gold",
+        "release_date": "2012-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:19:53Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Absynthe Minded",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527571713"
+        },
+        "name": "My Heroics, Part One (Edited Version)",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:19:51Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Black Keys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075597963045"
+        },
+        "name": "Lonely Boy",
+        "release_date": "2011-10-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:19:19Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Hurts",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443221192"
+        },
+        "name": "Happiness - Deluxe Edition",
+        "release_date": "2011-10-28"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:18:53Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Parry Gripp",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "809394025329"
+        },
+        "name": "The Girl At The Videogame Store",
+        "release_date": "2009-06-09"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:18:17Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "Queen",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527583891"
+        },
+        "name": "Absolute Greatest",
+        "release_date": "2009-11-16"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:17:46Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Band of Horses",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886443639300"
+        },
+        "name": "Mirage Rock",
+        "release_date": "2012-09-14"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:16:23Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Band of Horses",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "098787069068"
+        },
+        "name": "Everything All The Time",
+        "release_date": "2006-03-21"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:16:03Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Radiohead",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099969710650"
+        },
+        "name": "Kid A (Collector's Edition)",
+        "release_date": "2000-10-02"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:15:35Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Fleetwood Mac",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075992731362"
+        },
+        "name": "Rumours",
+        "release_date": "1977-02-04"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:15:14Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Killers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537115372"
+        },
+        "name": "Runaways",
+        "release_date": "2012-07-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:14:54Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Gaslight Anthem",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602537121175"
+        },
+        "name": "Handwritten (Special Edition)",
+        "release_date": "2012-07-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:14:18Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Jet",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "075679441966"
+        },
+        "name": "Put Your Money Where Your Mouth Is (Online Music)",
+        "release_date": "2006-08-14"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:13:51Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Jack White",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904056667"
+        },
+        "name": "Blunderbuss",
+        "release_date": "2012-04-23"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:13:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Noel Gallagher's High Flying Birds",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5414939177576"
+        },
+        "name": "Noel Gallagher's High Flying Birds",
+        "release_date": "2011-10-17"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:13:36Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Miles Kane",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977991161"
+        },
+        "name": "Colour Of The Trap",
+        "release_date": "2011-05-06"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:13:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828767350325"
+        },
+        "name": "First Impressions Of Earth",
+        "release_date": "2005-12-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:13:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828765549721"
+        },
+        "name": "Room On Fire",
+        "release_date": "2003-10-28"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:12:57Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00888072308794"
+        },
+        "name": "Willy And The Poor Boys (40th Anniversary Edition)",
+        "release_date": "1969-11-02"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:12:36Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Simon & Garfunkel",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "074640318023"
+        },
+        "name": "The Graduate",
+        "release_date": "1968-01-21"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:12:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Metric",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5051083043137"
+        },
+        "name": "Fantasies",
+        "release_date": "2009-04-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:12:23Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Phoenix",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0724359863559"
+        },
+        "name": "Alphabetical",
+        "release_date": "2004-03-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:12:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Phoenix",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0724384885359"
+        },
+        "name": "United",
+        "release_date": "2000-03-06"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:11:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pearl Jam",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099747786129"
+        },
+        "name": "Vitalogy",
+        "release_date": "1994-09-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:11:17Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pearl Jam",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099748936592"
+        },
+        "name": "Yield",
+        "release_date": "1998-02-02"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:11:02Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "System Of A Down",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099750153420"
+        },
+        "name": "Toxicity",
+        "release_date": "2001-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:10:18Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Sum 41",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527644462"
+        },
+        "name": "Screaming Bloody Murder",
+        "release_date": "2011-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:09:19Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977195552"
+        },
+        "name": "Angles",
+        "release_date": "2011-03-18"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:09:13Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pearl Jam",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099747454929"
+        },
+        "name": "Vs.",
+        "release_date": "1993-10-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:07:34Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Phoenix",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527024684"
+        },
+        "name": "Wolfgang Amadeus Phoenix (Standard Version)",
+        "release_date": "2009-05-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T21:06:45Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Antlers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0730003504129"
+        },
+        "name": "Hospice",
+        "release_date": "2009-10-26"
+      }
+    },
+    {
+      "added_at": "2014-04-03T20:06:35Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Vampire Weekend",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904031862"
+        },
+        "name": "Vampire Weekend",
+        "release_date": "2008-01-27"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:06:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Killers",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00600753047033"
+        },
+        "name": "Hot Fuss (International Version Ecopac)",
+        "release_date": "2004-06-15"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:05:53Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Nirvana",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00720642460726"
+        },
+        "name": "In Utero (Explicit Version)",
+        "release_date": "1993-09-21"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:05:48Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Fleet Foxes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "098787088861"
+        },
+        "name": "Helplessness Blues",
+        "release_date": "2011-05-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:05:22Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Pearl Jam",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5099746888497"
+        },
+        "name": "Ten",
+        "release_date": "1991"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:05:17Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "The Naked And Famous",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527578422"
+        },
+        "name": "Young Blood",
+        "release_date": "2010-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:05:11Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bloc Party",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527192581"
+        },
+        "name": "Intimacy (Reissue)",
+        "release_date": "2008"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:04:44Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Vampire Weekend",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "634904042967"
+        },
+        "name": "Contra",
+        "release_date": "2010-01-11"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:04:40Z",
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "name": "Slow Club",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5060164950820"
+        },
+        "name": "Christmas TV",
+        "release_date": "2004-12-14"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:04:16Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Frightened Rabbit",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "0600116997050"
+        },
+        "name": "The Midnight Organ Fight",
+        "release_date": "2008"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:04:08Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Nico Stai",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "851307001326"
+        },
+        "name": "PARK LOS ANGELES",
+        "release_date": "2006-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:03:56Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bon Iver",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "652637280982"
+        },
+        "name": "For Emma, Forever Ago",
+        "release_date": "2007-07-08"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:03:48Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "blink-182",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602498866108"
+        },
+        "name": "Greatest Hits",
+        "release_date": "2005-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:03:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Band of Horses",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977583311"
+        },
+        "name": "Infinite Arms",
+        "release_date": "2010-05-14"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:03:20Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Band of Horses",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "098787074567"
+        },
+        "name": "Cease to Begin",
+        "release_date": "2007-10-09"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:03:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Strokes",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "078636810126"
+        },
+        "name": "Is This It",
+        "release_date": "2001-07-30"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:02:50Z",
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "name": "Guns N' Roses",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602498621080"
+        },
+        "name": "Greatest Hits (EU Version)",
+        "release_date": "2004-03-15"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:02:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828768885727"
+        },
+        "name": "Skin And Bones (Live)",
+        "release_date": "2006-11-07"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:02:39Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828765331128"
+        },
+        "name": "ONE BY ONE",
+        "release_date": "2002-10-22"
+      }
+    }
+  ],
+  [
+    {
+      "added_at": "2014-04-03T18:02:34Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828765549622"
+        },
+        "name": "Foo Fighters",
+        "release_date": "1995-07-04"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:02:25Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "828765549523"
+        },
+        "name": "The Colour And The Shape",
+        "release_date": "1997-05-20"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:01:30Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Bloc Party",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "05055036260756"
+        },
+        "name": "Silent Alarm",
+        "release_date": "2005-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:01:15Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "blink-182",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00008811195021"
+        },
+        "name": "Enema Of The State",
+        "release_date": "1999-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:01:07Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arctic Monkeys",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "5034202018858"
+        },
+        "name": "Favourite Worst Nightmare",
+        "release_date": "2007-04-22"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:00:59Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Arcade Fire",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "609008252062"
+        },
+        "name": "Funeral",
+        "release_date": "2005-02-28"
+      }
+    },
+    {
+      "added_at": "2014-04-03T18:00:01Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "The Hives",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517474642"
+        },
+        "name": "The Black and White album",
+        "release_date": "2007-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:58:46Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "884977880991"
+        },
+        "name": "Wasting Light",
+        "release_date": "2011-04-12"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:58:42Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Foo Fighters",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "743217169923"
+        },
+        "name": "There Is Nothing Left To Lose",
+        "release_date": "1999-11-02"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:57:49Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rise Against",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "751097069523"
+        },
+        "name": "The Unraveling",
+        "release_date": "2001"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:57:40Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rise Against",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517010994"
+        },
+        "name": "The Sufferer & The Witness",
+        "release_date": "2006-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:57:35Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rise Against",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602498629826"
+        },
+        "name": "Siren Song Of The Counter-Culture",
+        "release_date": "2004"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:57:29Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rise Against",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "751097065327"
+        },
+        "name": "Revolutions Per Minute",
+        "release_date": "2003-04-08"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:57:14Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Rise Against",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602517843530"
+        },
+        "name": "Appeal To Reason (International Version)",
+        "release_date": "2008-10-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:54:43Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Mumford & Sons",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00602527200378"
+        },
+        "name": "Sigh No More",
+        "release_date": "2009-01-01"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:53:39Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Kings of Leon",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "886970377621"
+        },
+        "name": "Because Of The Times",
+        "release_date": "2007-04-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:53:18Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00025218451420"
+        },
+        "name": "Green River",
+        "release_date": "1969-08-03"
+      }
+    },
+    {
+      "added_at": "2014-04-03T17:53:12Z",
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "name": "Creedence Clearwater Revival",
+            "type": "artist"
+          }
+        ],
+        "external_ids": {
+          "upc": "00025218451321"
+        },
+        "name": "Bayou Country",
+        "release_date": "1969-01-05"
+      }
+    }
+  ]
+]
